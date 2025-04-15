@@ -9,5 +9,4 @@ import com.akajarius.workshopmongo.domain.User;
 public interface UserRepository extends MongoRepository<User, String>{
 
 	
-	
 }
